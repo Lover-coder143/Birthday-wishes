@@ -1,2 +1,3 @@
-# Birthday-wishes
-This is just a mini website made for educational purpose to wish your favourite one happy birthday.
+# happy-birthday
+Happy Birthday Website made using Html, css and JavaScript
+<a href="https://programmergaurav.me/happy-birthday/?name=Gaurav" target="blank">Click Here</a>
